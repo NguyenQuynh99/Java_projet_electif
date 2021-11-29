@@ -152,7 +152,8 @@ public class MainProgram {
             }
         }
     }
-
+    
+    // CM
     public static MainProgram databaseAlea(int nbrEtudiants, int nbrModules, Random r) {
         MainProgram res = new MainProgram();
         res.addEtudiantAlea(nbrEtudiants, r);
