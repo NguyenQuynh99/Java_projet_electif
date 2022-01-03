@@ -1,0 +1,13 @@
+NewDatabase\ExemplePersonnesAlea.class
+NewDatabase\StringUtil.class
+NewDatabase\Etudiant.class
+NewDatabase\Module.class
+NewDatabase\CoutEtudiant.class
+NewDatabase\MatriceToText.class
+NewDatabase\DatabaseModule.class
+NewDatabase\DatabaseVoeux.class
+NewDatabase\MainProgram.class
+NewDatabase\StringFormatException.class
+NewDatabase\DatabaseCM.class
+NewDatabase\Affectation.class
+NewDatabase\CoutInscriptionEtudiantModule.class
